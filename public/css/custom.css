@@ -11,8 +11,7 @@
 }
 
 header {
-	height: 100vh;
-	margin-bottom: 25px;
+	height: 250px;
 	
 	background-image: url("../../public/header.jpg");
 	background-color: #000;
@@ -23,31 +22,44 @@ header {
 }
 
 header h1 {
-	text-align: center;
 	color: #fff;
 	font-weight: lighter;
-	font-size: 10vh;
-	padding-top: 35vh;
-	margin: 0px 0px 0px 0px;
+	padding-top: 50px;
+	margin: 0;
+	font-size: 40px;
 }
 
 header h2 {
-	text-align: center;
-	color:#fff;
-	font-size: 20px;
+	color: #fff;
+	font-size: 13px;
 	letter-spacing: 3px;
 	margin: 0px 0px 0px 0px;
-	padding-bottom: 10vh;
+	padding-bottom: 25px;
 }
 
-header h2:before {
-	content: '—';
-}
-
-header h2:after {
-	content: '—';
+.posts {
+	padding-top: 50px;
 }
 
 .post {
 	text-align: justify;
+}
+
+.profile-pic {
+	border: 4px solid #fff;
+	border-radius: 100%;
+	width: 100px;
+	height: 100px;
+	margin: 0;
+	position: absolute;
+	right: 20px;
+	top: 200px;
+}
+
+body::-webkit-scrollbar { 
+    display: none; 
+}
+
+::body {
+	-webkit-overflow-scrolling: touch;
 }
