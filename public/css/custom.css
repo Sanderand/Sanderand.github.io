@@ -1,0 +1,53 @@
+.centered {
+	width: 100%;
+	text-align: center;
+}
+
+.icon-social img {
+	width: 50px;
+	height: 50px;
+	padding: 8px;
+	display: inline;
+}
+
+header {
+	height: 100vh;
+	margin-bottom: 25px;
+	
+	background-image: url("../../public/header.jpg");
+	background-color: #000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+header h1 {
+	text-align: center;
+	color: #fff;
+	font-weight: lighter;
+	font-size: 10vh;
+	padding-top: 35vh;
+	margin: 0px 0px 0px 0px;
+}
+
+header h2 {
+	text-align: center;
+	color:#fff;
+	font-size: 20px;
+	letter-spacing: 3px;
+	margin: 0px 0px 0px 0px;
+	padding-bottom: 10vh;
+}
+
+header h2:before {
+	content: '—';
+}
+
+header h2:after {
+	content: '—';
+}
+
+.post {
+	text-align: justify;
+}

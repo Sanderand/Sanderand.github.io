@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-08">
+      <header>
+        <h1>{{ site.title }}</h1>
+        <h2>{{ site.tagline }}</h2>
+
+        <div class="centered">
+          <a class="icon-social" href="mailto:{{ site.mail }}"><img src="{{ site.baseurl }}public/icon-mail.png"></a>
+          <a class="icon-social" href="https://facebook.com/{{ site.facebook }}" target="_blank"><img src="{{ site.baseurl }}public/icon-facebook.png"></a>
+          <a class="icon-social" href="https://twitter.com/{{ site.twitter }}" target="_blank"><img src="{{ site.baseurl }}public/icon-twitter.png"></a>
+          <a class="icon-social" href="https://linkedin.com/{{ site.linkedin }}" target="_blank"><img src="{{ site.baseurl }}public/icon-linkedin.png"></a>
+        </div>
+      </header>
+
+      <div class="container content">
+        {{ content }}
+      </div>
+  </body>
+</html>
