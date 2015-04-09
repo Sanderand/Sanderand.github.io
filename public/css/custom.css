@@ -12,6 +12,7 @@
 
 header {
 	height: 250px;
+	margin-bottom: 50px;
 	
 	background-image: url("../../public/header.jpg");
 	background-color: #000;
@@ -35,10 +36,6 @@ header h2 {
 	letter-spacing: 3px;
 	margin: 0px 0px 0px 0px;
 	padding-bottom: 25px;
-}
-
-.posts {
-	padding-top: 50px;
 }
 
 .post {
