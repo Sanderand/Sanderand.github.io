@@ -63,3 +63,7 @@ body::-webkit-scrollbar {
 ::body {
 	-webkit-overflow-scrolling: touch;
 }
+
+.homelink:hover {
+	text-decoration: none;
+}

@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="de-de">
 
   {% include head.html %}
 
   <body class="theme-base-08">
       <header class="centered">
-        <h1>{{ site.title }}</h1>
-        <h2>{{ site.tagline }}</h2>
+        <a class="homelink" href="{{ site.baseurl }}">
+          <h1>{{ site.title }}</h1>
+          <h2>{{ site.tagline }}</h2>
+        </a>
 
         <div>
           <a class="icon-social" href="mailto:{{ site.mail }}"><img src="{{ site.baseurl }}public/icon-mail.png"></a>
@@ -21,5 +23,17 @@
       <div class="container content">
         {{ content }}
       </div>
+
+      <!-- Google AdWords -->
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- Blog Ad #1 -->
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-4359425054597252"
+           data-ad-slot="7660771721"
+           data-ad-format="auto"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
   </body>
 </html>
