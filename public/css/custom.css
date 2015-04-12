@@ -64,3 +64,7 @@ body::-webkit-scrollbar {
 .homelink:hover {
 	text-decoration: none;
 }
+
+.adsbygoogle {
+	margin-bottom: 40px;
+}
