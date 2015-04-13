@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Visa und Flug
+title: Flug und Visum für Oz
 location: Darmstadt, Germany
 ---
 
-Die Vorbereitung für einen Working Holiday in Australien ist spielend einfach. 
+In Australien werde ich einen Working Holiday machen. Die Vorbereitung dafür sind spielend einfach: Ein Flug und ein Visum.
 
-Das Visum heißt **Subclass 417 - Working Holiday** und kann online beantragt werden. Pumpe dein Geld nicht in Organisationen, die dir ein paar Hilfestellungen für viel Geld anbieten. Nimm das Ruder lieber selbst in die Hand und erledige die (wenigen) Schritte in Eigenregie.
+![Flug]({{ site.url }}/public/post_img/visa_flight.jpg)
 
-Im November habe ich in einer Nacht-und-Nebel Aktion mein Visum beantragt. Das hat mich circa eine Stunde meiner Zeit gekostet. Etwa 6 Stunden später habe ich meine Emails gecheckt und eine **Visa Grant Notification** bekommen. Easy going!
+Das Visum heißt **Subclass 417 - Working Holiday** und kann online beantragt werden. Pump' dein Geld nicht in Organisationen, die dir ein paar Hilfestellungen für viel Geld anbieten. Nimm das Ruder lieber selbst in die Hand und erledige die (wenigen) Schritte in Eigenregie.
 
-Ein paar Tage darauf habe ich den Hinflug gebucht. Wenn du planst lange unterwegs zu sein, solltest du deinen Rückflug nicht zu früh buchen. Du kannst nie wissen wie die Reise verläuft und wann du wo sein wirst. Ohne Rückflug kann man spontan und flexibel bleiben. Soweit die Theorie.
 
-Ich werde am 18.04 abends von Frankfurt über New Delhi nach Melbourne, Victoria fliegen. Meine Airline ist AirIndia und ich freue mich jetzt schon auf das indische Essen an Board. Den Flug habe ich für unter 600€ gute 6 Monate vor der Abreise gebucht.
+Im November 2014 habe ich mich spontan dazu entschieden dieses Visum zu beantragen. Das hat mich etwa eine Stunde meiner Zeit gekostet. Etwa 6 Stunden später habe ich meine Emails gecheckt und eine **Visa Grant Notification** bekommen. So weit, so gut.
+
+Ein paar Tage darauf habe ich den Hinflug gebucht. Und zwar nur den Hinflug. Wenn du planst lange unterwegs zu sein, solltest du deinen Rückflug nicht zu früh buchen. Du kannst nie wissen wie die Reise verläuft und wann du wo sein wirst. Ohne Rückflug kann man spontan und flexibel bleiben. Das ist die Theorie.
+
+Ich werde am **18.04.15** abends von Frankfurt über New Delhi nach Melbourne, Victoria fliegen. Meine Airline ist AirIndia. Hier kann man aus bestimmt 20 verschiedenen Speise-Kategorien wählen! Auf das Flugzeugessen freue ich mich jetzt schon. Den Flug habe ich für unter 600€ gute 6 Monate vor der Abreise gebucht.
