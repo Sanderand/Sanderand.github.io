@@ -3,14 +3,24 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-
-  <span class="post-date">
-    {{ page.date | date_to_string }} 
-    <a href="https://www.google.com/maps/search/{{ page.location }}" target="_blank"> @ {{ page.location }}</a>
-  </span>
-
-  {{ content }}
+  {% if page.type == "pic" %}
+    <div class="polaroid">
+      <img alt="{{ page.title }}" src="{{ page.imgSrc }}">
+      <div class="date">{{ page.date | date_to_string }}</div>
+      <b>{{ page.title }}</b>
+      <small>
+        {{ page.desc }}
+        <a href="https://www.google.com/maps/search/{{ page.location }}" target="_blank"> @ {{ page.location }}</a>
+      </small>
+    </div>
+  {% else %}
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">
+      {{ page.date | date_to_string }} 
+      <a href="https://www.google.com/maps/search/{{ page.location }}" target="_blank"> @ {{ page.location }}</a>
+    </span>
+    {{ content }}
+  {% endif %}
 </div>
 
 <!-- RELATED POSTS -->
