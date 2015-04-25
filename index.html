@@ -8,9 +8,10 @@ title: Home
   {% if post.type == "pic" %}
     <div class="polaroid">
       <img alt="{{ post.title }}" src="{{ post.imgSrc }}">
+      <div class="date">{{ post.date | date_to_string }}</div>
       <b>{{ post.title }}</b>
       <small>
-        {{ post.desc }}
+        {{ post.desc }},
         <a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank"> @ {{ post.location }}</a>
       </small>
     </div>

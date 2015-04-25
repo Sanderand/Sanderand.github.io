@@ -91,6 +91,15 @@ footer {
 	padding-bottom: 15px;
 }
 
+.polaroid .date {
+	position: absolute;
+	top: 23px;
+	right: 23px;
+	color: #4df541;
+	font-family: monospace;
+	font-size: 13px;
+}
+
 .polaroid:nth-child(odd) {
 	-webkit-transform: rotate(2deg);  /* Chrome, Opera 15+, Safari 3.1+ */
 	    -ms-transform: rotate(2deg);  /* IE 9 */
