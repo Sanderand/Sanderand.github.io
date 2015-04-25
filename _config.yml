@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Andre Sander
 tagline:             Mein Blog
 baseurl:             /
-paginate:            4
+paginate:            5
 
 # Social
 name: Andre Sander
