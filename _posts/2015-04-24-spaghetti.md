@@ -1,4 +1,5 @@
 ---
+layout: post
 type: pic
 title: Ganz zufällig
 desc: 11 Menschen, 6 Nationalitäten und 1 Wohnungseinweihungsparty
