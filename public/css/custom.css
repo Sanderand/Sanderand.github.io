@@ -100,14 +100,14 @@ footer {
 	font-size: 13px;
 }
 
-.polaroid:nth-child(odd) {
+.post:nth-child(odd) .polaroid {
 	-webkit-transform: rotate(2deg);  /* Chrome, Opera 15+, Safari 3.1+ */
 	    -ms-transform: rotate(2deg);  /* IE 9 */
 	        transform: rotate(2deg);  /* Firefox 16+, IE 10+, Opera */
 }
 
-.polaroid:nth-child(even) {
-	-webkit-transform: rotate(-1deg);  /* Chrome, Opera 15+, Safari 3.1+ */
-	    -ms-transform: rotate(-1deg);  /* IE 9 */
-	        transform: rotate(-1deg);  /* Firefox 16+, IE 10+, Opera */
+.post:nth-child(even) .polaroid {
+	-webkit-transform: rotate(-3deg);  /* Chrome, Opera 15+, Safari 3.1+ */
+	    -ms-transform: rotate(-3deg);  /* IE 9 */
+	        transform: rotate(-3deg);  /* Firefox 16+, IE 10+, Opera */
 }
