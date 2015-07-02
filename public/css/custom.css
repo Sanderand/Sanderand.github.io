@@ -114,11 +114,20 @@ footer {
 
 /* timeline style overwrites */
 
-.post-title {
+.container {
+	padding-left: 0rem;
+}
+
+.timeline {
+	border-left: 6px solid #ac4142;
+	padding-left: 1rem;
+}
+
+.timeline .post-title {
 	padding-left: 10px;
 }
 
-.post-title:before {
+.timeline .post-title:before {
 	content: '';
 	position: absolute;
 	margin-left: -49px;
@@ -129,8 +138,4 @@ footer {
 	display: block;
 	border-radius: 50%;
 	border: 6px solid #ac4142;
-}
-
-.container.content {
-	border-left: 6px solid #ac4142;
 }
