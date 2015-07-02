@@ -13,7 +13,7 @@
 header {
 	height: 250px;
 	margin-bottom: 50px;
-	
+
 	background-image: url("../../public/header.jpg");
 	background-color: #000;
 	-webkit-background-size: cover;
@@ -53,8 +53,8 @@ header h2 {
 	top: 200px;
 }
 
-body::-webkit-scrollbar { 
-    display: none; 
+body::-webkit-scrollbar {
+    display: none;
 }
 
 ::body {
@@ -110,4 +110,27 @@ footer {
 	-webkit-transform: rotate(-3deg);  /* Chrome, Opera 15+, Safari 3.1+ */
 	    -ms-transform: rotate(-3deg);  /* IE 9 */
 	        transform: rotate(-3deg);  /* Firefox 16+, IE 10+, Opera */
+}
+
+/* timeline style overwrites */
+
+.post-title {
+	padding-left: 10px;
+}
+
+.post-title:before {
+	content: '';
+	position: absolute;
+	margin-left: -49px;
+	margin-top: 10px;
+	background-color: #ffffff;
+	width: 20px;
+	height: 20px;
+	display: block;
+	border-radius: 50%;
+	border: 6px solid #ac4142;
+}
+
+.container.content {
+	border-left: 6px solid #ac4142;
 }
