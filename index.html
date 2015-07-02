@@ -22,10 +22,10 @@ title: Home
       </a>
     </h1>
     <span class="post-date">
-      {{ post.date | date_to_string }} 
+      {{ post.date | date_to_string }}
       <a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank"> @ {{ post.location }}</a>
     </span>
-    {{ post.content | truncatewords:50}}
+    {{ post.content | truncatewords:75}}
     <a href="{{ post.url }}">weiterlesen</a>
   {% endif %}
 </div>
