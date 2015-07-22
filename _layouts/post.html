@@ -16,7 +16,7 @@ layout: default
   {% else %}
     <h1 class="post-title">{{ page.title }}</h1>
     <span class="post-date">
-      {{ page.date | date_to_string }} 
+      {{ page.date | date_to_string }}
       <a href="https://www.google.com/maps/search/{{ page.location }}" target="_blank"> @ {{ page.location }}</a>
     </span>
     {{ content }}
@@ -37,7 +37,7 @@ layout: default
 
 <!-- RELATED POSTS -->
 <div class="related">
-  <h2>Weitere Beiträge</h2>
+  <h2>Der aktuellste Shit:</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
@@ -57,7 +57,7 @@ layout: default
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'andresander';
-    
+
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
