@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Einem Tag im Paradies
+title: Ein Tag im Paradies
 location: Surfer's Paradise, Australia
 ---
 
