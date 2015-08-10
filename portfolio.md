@@ -9,6 +9,7 @@ During the last years I've worked for several companies on different projects. T
 - Akquitek GmbH (GER)
 - Musala Soft (BG)
 - TR Tech (CA)
+- Plycode (AUS)
 
 > "Andre works independently, following best practices and constantly improved his skills. He is a tremendous asset for your company and has my highest recommendation." -*Musala Soft Lead Developer*, 2015
 
