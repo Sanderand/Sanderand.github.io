@@ -143,3 +143,11 @@ footer {
 	border-radius: 50%;
 	border: 6px solid #ac4142;
 }
+
+.no-width-restriction {
+	width: inherit;
+}
+
+.no-width-restriction img {
+	width: inherit;
+}
