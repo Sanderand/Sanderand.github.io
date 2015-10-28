@@ -4,6 +4,8 @@ title: Ein mal Südküste, bitte!
 location: Adelaide, SA
 ---
 
+![Little Beach]({{ site.url }}/public/post_img/sc_1.jpg)
+
 Ich bin wieder unterwegs. In Perth hatte ich wirklich einige tolle Wochen, viele neue Freunde und mal einen ganz anderen Job, der mich voll und ganz eingespannt hat. Nach 6 mal wöchentlich 10-12 Stunden Arbeit und etwa 16 Kilometer Laufstrecke am Tag, blieb mir nicht viel Zeit oder Energie, um mit meinen Leuten irgendwas zu machen. Stattdessen habe ich mittwochs und freitags weitere Stunden mit den Arbeitskollegen am Team Abend oder Playstation Abend verbracht. Mit den vielen neuen Kollegen aus Australien, Neuseeland und der ganzen Welt hat das super viel Spaß gemacht. Nach dem ich zum Sales Agent Stufe 2 aufgestiegen bin, war es aber für mich vorbei. Nach dem ich am Vortag noch den Test erfolgreich bestanden habe und meine Trainerin dadurch 200$ bekommen hat, habe ich meine Kündigung eingereicht. Der Job hat mir am Ende nicht viel Geld eingebracht, dafür aber jede Menge neue Erfahrungen von denen ich noch lange profitieren werde.
 
 Ich hatte also keinen Job mehr - dafür aber Zeit. Zeit, um darüber nachzudenken, was als nächstes kommen sollte. Ein neuer Fluchtplan musste her. Nach vielen Plänen, die wieder verworfen wurden, habe ich mich dann entschieden mich wieder auf den Rückweg nach Melbourne zu begeben - der Stadt mit der alles vor 6 Monaten anfing. Und zwar mit dem Auto. Damit würde ich dann in einigen Tagen meine Australien-Umrundung vollenden. Es ging also morgens nicht mehr auf die Arbeit, sondern in die Library. Von hier aus habe ich versucht alte Kontakte neu zu knüpfen, um möglichst bald in Melbourne wieder Arbeit zu finden und neu Geld anzusparen.
@@ -18,9 +20,13 @@ Die Relocation ging zunächst nur von Perth bis nach Adelaide. Dafür hatten wir
 
 Der nächste geile Stopp war dann im **Le Grande National Park**. Dort sind wir auf den **Frenchman Peak** gestiegen. Eine äußerst steile Route führt auf den Gipfel des Berges. Die Gegend hier liegt seit einigen Millionen Jahren über dem Meeresspiegel, hat nie Gletscher gehabt und daher einzigartige Granitberge. Auf der Spitze standen wir dann auf einem Überhang, der sehr weit über dem Boden hing. Wirlklich schwindelerregend. Mama hätte das nicht gut gefunden. War richtig geil. Danach haben wir uns noch **Lucky Bay** und **Hellfire Bay** angeschaut. Super schöne weiße Sandstrände und glasklares Wasser. Wir waren die einzigen, die schnell mal reingerannt sind. Ja, es war kalt.
 
+![Frenchman Peak]({{ site.url }}/public/post_img/sc_2.jpg)
+
 Die nächsten Tage sollten wir über hunderte Kilometer durch die Nullabor Plain fahren. Eine Gegend, in der es nichts außer Bäume und Gräser bis zum Horizont gibt. Eine gähnend weite Leere. Außerdem gibt es hier die längste gerade Strecke Australiens. 156 Kilometer geht es ohne Kurve oder Biegung gerade aus. In der Mitte vom Nirgenwo. Mit drei Fahrern konnten wir uns regelmäßig abwechseln. Das einzige worauf man aufpassen muss, ist regelmäßig zu tanken und beim Fahren nicht einzuschlafen. Insgesamt haben wir in den sieben Tagen bis nach Adelaide 13 mal getankt. Und in Outback ist Tanken ganz schön teuer. Aber Yolo. Trotz alle dem haben wir am Ende pro Nase etwa 150$ weniger ausgegeben, als geplant.
 
 In unseren nächtlichen Aktionen wurden wir von Lonzi inspieriert, der uns das Tanzen zeigte. Unterm Vollmond haben wir also getanzt und uns gedreht, bis uns schwindelig wurde. Matze hat danach noch sein Motivationsvideo mit dem Titel 'trink einfach mal deine Pisse' aufgenommen. Sehr interessante Abende. Lustig wars.
+
+![Campervan]({{ site.url }}/public/post_img/sc_3.jpg)
 
 Jetzt, wo ich diesen Blogeintrag schreibe, sitze ich in Adelaide im Hostel über einer schönen Tasse Goon und einem Karton mit einer Spicy Veg Trio Domino's Pizza. Morgen werde ich mich mit Fayzah treffen, die ich vor etwa 8 Monaten in Bulgarien mal kurz kennengelernt habe. Mega geil. Und nach ein paar Tagen in dieser Stadt, geht es dann weiter nach Melbourne. Ich freue mich sooo. In sechs Tagen habe ich dann auch ein Interview bei einem lokalen IT Unternehmen und morgen noch ein Telefoninterview. Hoffen wir das beste.
 
