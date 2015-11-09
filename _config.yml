@@ -10,9 +10,9 @@ relative_permalinks: true
 
 # Setup
 title:               Andre Sander
-tagline:             digitales und zensiertes reisetagebuch
+tagline:             Mein digitales Reisetagebuch
 baseurl:             /
-paginate:            5
+paginate:            6
 
 # Social
 name: Andre Sander
