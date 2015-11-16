@@ -4,7 +4,7 @@ title: Endlich wieder Melbourne
 location: Melbourne, VIC
 ---
 
-![Die Route]({{ site.url }}/public/post_img/roundtrip)
+![Die Route]({{ site.url }}/public/post_img/roundtrip.jpg)
 
 Vor etwa acht Tagen bin ich zusammen mit Matze im Nachtbus von Adelaide nach Melbourne gefahren. Über die letzten Abenteuer in Adelaide und die neusten Schandtaten in Melbourne könnt ihr hier fast alles erfahren.
 
