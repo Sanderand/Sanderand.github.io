@@ -4,6 +4,8 @@ title: Endlich wieder Melbourne
 location: Melbourne, VIC
 ---
 
+![Die Route]({{ site.url }}/public/post_img/roundtrip)
+
 Vor etwa acht Tagen bin ich zusammen mit Matze im Nachtbus von Adelaide nach Melbourne gefahren. Über die letzten Abenteuer in Adelaide und die neusten Schandtaten in Melbourne könnt ihr hier fast alles erfahren.
 
 An meinem letzten Abend in Adelaide habe ich mich mit Fayzah getroffen. Die habe ich vor guten 9 Monaten in Bulgarien ganz zufällig kennengelernt. Und weil wir uns gut verstanden haben und ich ja sowieso gerade in der Ecke war, haben wir uns wieder getroffen. Zusammen haben wir uns dann die schöne Strandpromenade und den Sonnenuntergang angeguckt; und die tollsten Sonnenuntergänge soll es nun mal in Adelaide geben. Danach sind wir zum **Windy Point** hochgefahren. Von dort aus kann man über eine endlose Fläche mit Millionen kleinen Lichtern sehen. Super schön.
