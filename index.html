@@ -2,62 +2,80 @@
 layout: default
 title: Home
 ---
+<div class="flex">
+  <!-- <aside class="card">
+    {% for post in site.posts %}
+      {% assign currentdate = post.date | date: "%m/%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <div class="collapse">{{ currentdate }}</div>
+        <ul>
+        {% assign date = currentdate %}
+      {% endif %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
+  </aside> -->
 
-<div class="timeline">
-  {% for post in paginator.posts %}
-  <div class="post">
-    {% if post.type == "pic" %}
-      <div class="polaroid">
+  <main>
+    {% for post in paginator.posts %}
+    <div class="post">
+      {% if post.type == "pic" %}
+      <div class="polaroid card">
         <img alt="{{ post.title }}" src="{{ post.imgSrc }}">
-        <div class="date">{{ post.date | date_to_string }}</div>
         <b>{{ post.title }}</b>
         <small>
-          {{ post.desc }}
-          <a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank"> @ {{ post.location }}</a>
+          <span>{{ post.desc }}</span>
+          <a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank">
+            {{ post.location }}</a>
+          <span class="date">
+            -
+            {{ post.date | date: "%d/%m/%y" }}</span>
         </small>
       </div>
-    {% else %}
-      <h1 class="post-title">
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      <span class="post-date">
-        {{ post.date | date_to_string }}
-        <a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank"> @ {{ post.location }}</a>
-      </span>
-      {{ post.content | truncatewords:75}}
-      <a href="{{ post.url }}">weiterlesen</a>
-    {% endif %}
-  </div>
-  {% endfor %}
-</div>
+      {% else %}
+      <div class="card">
+        <h1 class="post-title">
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        <span class="post-date">
+          <a href="https://www.google.com/maps/search/{{ post.location }}" target="_blank">
+            {{ post.location }}</a>
+          -
+          {{ post.date | date: "%d/%m/%y" }}
+        </span>
+        {{ post.content | truncatewords:75}}
+        <a href="{{ post.url }}">weiterlesen</a>
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Blog Ad #1 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4359425054597252"
-     data-ad-slot="7660771721"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+    <!-- ADS -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- Blog Ad #1 -->
+    <ins class="adsbygoogle" data-ad-client="ca-pub-4359425054597252" data-ad-format="auto" data-ad-slot="7660771721" style="display:block"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Älteres</a>
-  {% else %}
-    <span class="pagination-item older">Älteres</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
+    <div class="pagination">
+      {% if paginator.next_page %}
+      <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Älteres</a>
+      {% else %}
+      <span class="pagination-item older">Älteres</span>
+      {% endif %}
+      {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
       <a class="pagination-item newer" href="{{ site.baseurl }}">Neueres</a>
-    {% else %}
+      {% else %}
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Neueres</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Neueres</span>
-  {% endif %}
+      {% endif %}
+      {% else %}
+      <span class="pagination-item newer">Neueres</span>
+      {% endif %}
+    </div>
+  </main>
 </div>
-

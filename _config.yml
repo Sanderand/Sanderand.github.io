@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Andre Sander
-tagline:             Mein digitales Reisetagebuch
+tagline:             Vom Working Holiday und Reisen
 baseurl:             /
 paginate:            6
 
