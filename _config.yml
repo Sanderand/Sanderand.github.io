@@ -11,8 +11,10 @@ relative_permalinks: true
 # Setup
 title:               Andre Sander
 tagline:             Vom Working Holiday und Reisen
+description:         Andre Sander's Blog über mein Work and Travel in Australien und alle Abenteuer auf meiner Reise
 baseurl:             /
 paginate:            6
+url:                 http://blog.andresander.com
 
 # Social
 name: Andre Sander
