@@ -3,6 +3,6 @@ layout: page
 title: Über mich
 ---
 
-Hallo, Ich bin Andre. In den letzten 3,5 Jahren war ich dualer Student bei der Deutschen Telekom AG an der Hochschule Darmstadt. Studienfach war Informatik. Während dieser Zeit habe ich mich weitesgehend auf alles rund um das Themengebiet **Web** spezialisiert. [Hier](/portfolio) findest du mein Portfolio.
+Hallo, ich bin Andre und momentan auf Reise durch die Australien und andere Teile der Welt. In meinem Blog schreibe ich von meinen Reisezielen und den mehr oder weniger spannenden Abenteuern, die ich erlebe. In einigen Monaten werde ich Australien hinter mit lassen und Richtung Indonesien, Singapur und Thailand aufbrechen. Ob ich meine Planung einhalten werde, oder nicht kannst du hier live verfolgen.
 
-Nach dem Bachelor Studium möchte ich jetzt ein Intermezzo einlegen und auf Reise gehen. Der Anfang ist Australien. Neuseeland steht ganz weit oben auf der Liste; Asien wäre auch spannend. Wohin der Weg letztendlich geht, wird sich zeigen.
+Bevor ich aufgebrochen bin, war ich 3,5 Jahren dualer Informatik Student bei der Deutschen Telekom AG an der Hochschule Darmstadt. Während dieser Zeit habe ich mich weitesgehend auf das Themengebiet **Web** spezialisiert und mich hier beruflich positioniert. Schwerpunkt ist Front-End Entwicklung. In den letzten Jahren habe ich zusammen mit Firmen und Kunden international alles rund um Apps, Blogs und Webseiten auf eigene Faust und mit herkömmlichen Frameworks und Hilfsmitteln entwickelt.
