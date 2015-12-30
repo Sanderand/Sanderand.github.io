@@ -3,32 +3,13 @@
 
   {% include head.html %}
 
-  <body class="theme-base-08">
-      <header class="centered">
-        <a class="homelink" href="{{ site.baseurl }}">
-          <h1>{{ site.title }}</h1>
-          <h2>{{ site.tagline }}</h2>
-        </a>
+  <body>
+    {% include header.html %}
 
-        <div>
-          <a class="icon-social" href="mailto:{{ site.mail }}"><img src="{{ site.baseurl }}public/icon-mail.png"></a>
-          <a class="icon-social" href="skype:{{ site.skype }}?add" alt="{{ site.skype }}"><img src="{{ site.baseurl }}public/icon-skype.png"></a>
-          <a class="icon-social" href="https://facebook.com/{{ site.facebook }}" target="_blank"><img src="{{ site.baseurl }}public/icon-facebook.png"></a>
-          <a class="icon-social" href="https://twitter.com/{{ site.twitter }}" target="_blank"><img src="{{ site.baseurl }}public/icon-twitter.png"></a>
-          <a class="icon-social" href="https://xing.com/{{ site.xing }}?sc_o=mxb_p" target="_blank"><img src="{{ site.baseurl }}public/icon-xing.png"></a>
-          <a class="icon-social" href="https://linkedin.com/{{ site.linkedin }}" target="_blank"><img src="{{ site.baseurl }}public/icon-linkedin.png"></a>
-          <a class="icon-social no-width-restriction" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5JSYJ9W2B7GA" target="_blank"><img src="{{ site.baseurl }}public/icon-donate.png"></a>
-        </div>
+    <div class="content">
+      {{ content }}
+    </div>
 
-        <a href="{{ site.baseurl }}about">
-          <img class="profile-pic" src="{{ site.baseurl }}public/profile.jpg">
-        </a>
-      </header>
-
-      <div class="container content">
-        {{ content }}
-      </div>
-
-      {% include footer.html %}
+    {% include footer.html %}
   </body>
 </html>
