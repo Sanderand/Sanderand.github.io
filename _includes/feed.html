@@ -1,0 +1,15 @@
+<div class="feed" id="feed"></div>
+
+<script>
+  var feedElement = document.getElementById('feed');
+  var feedHTML = '';
+  var feed = [{
+    data: 'Ich blogge jetzt <a href="https://medium.com/@andresander">hier</a> weiter.'
+  }];
+
+  feed.forEach(function(post) {
+    feedHTML += '<div class="post">' + post.data + '</div>';
+  });
+
+  feedElement.innerHTML = feedHTML;
+</script>
