@@ -12,7 +12,6 @@ relative_permalinks: true
 title:               Andre Sander
 description:         Andre Sander, Web Development, Angular, Single Page Application, NodeJS
 baseurl:             /
-paginate:            6
 url:                 http://andresander.com
 
 # Social
