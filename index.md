@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Hello
 ---
 
 <div class="well">
