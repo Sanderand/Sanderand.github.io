@@ -20,11 +20,11 @@ html, body {
 	margin: 0 auto;
 	font-size: 14px;
 	color: #444;
+  padding: 10px;
 }
 
 .social-links {
   margin-top: 10px;
-  margin-bottom: 100px;
 }
 
 .social-links a {
@@ -32,23 +32,29 @@ html, body {
   color: #888;
   padding: 10px;
   font-size: 20px;
+
+	transition-property: color;
+	transition-duration: .25s;
+	transition-timing-function: linear;
 }
 
 .social-links a:hover,
 footer a:hover {
-  color: #666;
+  color: #666 !important;
+}
+
+.social-links.highlight a {
+  color: #5cb85c;
 }
 
 header {
 	width: 100%;
 	text-align: center;
-	padding-top: 100px;
 }
 
 footer {
 	width: 100%;
 	text-align: center;
-  margin-top: 100px;
   font-size: small;
   color: #888;
 }
@@ -59,22 +65,65 @@ footer a {
   padding: 12px;
 }
 
-.feed {
+.adsense-ad {}
+
+.cells {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.cell {
+  max-width: 120px;
+  padding: 10px 0px;
+  align-self: center;
+}
+
+.cell img {
+  width: 100%;
+}
+
+.well {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  border-color: #eee #ddd #bbb;
+  border-width: 1px;
+  border-style: solid;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 3px;
+}
+
+.well .title {
   text-align: center;
-  margin-bottom: 100px;
-  font-style: italic;
+  padding: 10px;
+  font-size: 16px;
+  color: #888;
 }
 
-.feed .post:before {
-  content: "„ ";
-  font-size: 24px;
+.divider {
+  width: 100%;
+  height: 50px;
 }
 
-.feed .post:after {
-  content: " “";
-  font-size: 24px;
+.well p {
+  text-align: justify;
+  font-size: 12px;
 }
 
-.adsense-ad {
-  margin-top: 100px;
+.well .btn {
+  outline: none;
+  border: 1px solid #4cae4c;
+  background-color: #5cb85c;
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  border-radius: 3px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.well .btn:hover {
+  background-color: #449d44;
+  border-color: #398439;
 }

@@ -13,7 +13,7 @@ title:               Andre Sander
 description:         Andre Sander, Web Development, Angular, Single Page Application, NodeJS
 baseurl:             /
 paginate:            6
-url:                 http://blog.andresander.com
+url:                 http://andresander.com
 
 # Social
 name: Andre Sander
@@ -23,6 +23,7 @@ facebook: Sanderand
 linkedin: profile/view?id=293081683
 skype: andresanderandre
 xing: profile/Andre_Sander15
+medium: andresander
 
 # Custom vars
 version:             1.0.0
