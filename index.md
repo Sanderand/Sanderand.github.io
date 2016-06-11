@@ -17,20 +17,18 @@ title: Hello
 
 <div class="well">
   <div class="title">Who I've worked for</div>
+
   <div class="cells">
-    <a href="https://www.telstra.com.au
-" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/telstra.png"></a>
-    <a href="http://www.ie.com.au
-" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/ie.jpg"></a>
-    <a href="https://www.plycode.com" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/plycode.png"></a>
-    <a href="http://www.akquitek.de" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/akquitek.png"></a>
-    <a href="http://www.telekom.de" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/telekom.png"></a>
-    <a href="http://www.musala.com
-" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/musala.jpg"></a>
-    <a href="https://www.trtech.ca" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/trtech.png"></a>
-    <a href="http://www.aidagroup.com.au" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/aida.png"></a>
-    <a href="http://www.sternengalerie.de" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/sternengalerie.jpg"></a>
-    <a href="http://www.strathconaanimalbedding.ca" target="_blank" class="cell"><img src="{{ site.baseurl }}public/img/strathcona.jpg"></a>
+    <a href="https://www.telstra.com.au" target="_blank" class="cell">Telstra <small>(AUS)</small></a>
+    <a href="http://www.ie.com.au" target="_blank" class="cell">IE <small>(AUS)</small></a>
+    <a href="https://www.plycode.com" target="_blank" class="cell">Plycode <small>(AUS)</small></a>
+    <a href="http://www.akquitek.de" target="_blank" class="cell">Akquitek <small>(GER)</small></a>
+    <a href="http://www.telekom.de" target="_blank" class="cell">Telekom <small>(GER)</small></a>
+    <a href="http://www.musala.com" target="_blank" class="cell">Musala Soft <small>(BG)</small></a>
+    <a href="https://www.trtech.ca" target="_blank" class="cell">TRTech <small>(CA)</small></a>
+    <a href="http://www.aidagroup.com.au" target="_blank" class="cell">AIDA <small>(AUS)</small></a>
+    <a href="http://www.sternengalerie.de" target="_blank" class="cell">Sternengalerie <small>(GER)</small></a>
+    <a href="http://www.strathconaanimalbedding.ca" target="_blank" class="cell">Strathcona Animal Bedding <small>(CA)</small></a>
   </div>
 </div>
 

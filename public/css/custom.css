@@ -74,14 +74,13 @@ footer a {
   justify-content: space-around;
 }
 
-.cell {
-  max-width: 120px;
-  padding: 10px 0px;
-  align-self: center;
-}
-
-.cell img {
-  width: 100%;
+.cells .cell {
+  width: 150px;
+  text-align: center;
+  padding: 25px 0px;
+  text-decoration: initial;
+  color: #444;
+  font-size: 16px;
 }
 
 .well {
